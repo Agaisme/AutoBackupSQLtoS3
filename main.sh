@@ -77,4 +77,4 @@ else
 fi
 
 # Step 5: Backup Completed
-log "$SUCCESS" "Backup process completed."
+log "$SUCCESS" "Backup process completed!"
